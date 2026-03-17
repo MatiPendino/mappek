@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "portfolio": "Proyectos",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "privacy": "Política de Privacidad"
+  },
+  "hero": {
+    "tagline": "Creamos experiencias digitales",
+    "subtitle": "Agencia especializada en landing pages, e-commerce, aplicaciones a medida y soporte técnico.",
+    "cta": "Ver nuestro trabajo",
+    "contact": "Contáctanos"
+  },
+  "services": {
+    "title": "Servicios",
+    "subtitle": "Todo lo que necesitas para establecer y hacer crecer tu presencia digital",
+    "landing": {
+      "title": "Landing Pages",
+      "description": "Páginas de aterrizaje visualmente impactantes y de alta conversión, diseñadas para captar la atención y generar resultados."
+    },
+    "ecommerce": {
+      "title": "E-Commerce",
+      "description": "Tiendas online completas con pagos seguros, gestión de inventario y una experiencia de usuario impecable."
+    },
+    "custom": {
+      "title": "Desarrollo a Medida",
+      "description": "Aplicaciones web personalizadas, construidas desde cero para satisfacer los requisitos únicos de tu negocio."
+    },
+    "support": {
+      "title": "Corrección de Errores y Eliminación de Malware",
+      "description": "Diagnóstico y resolución experta de problemas técnicos, vulnerabilidades de seguridad e infecciones de malware."
+    }
+  },
+  "portfolio": {
+    "title": "Proyectos",
+    "subtitle": "Algunos proyectos que demuestran nuestra experiencia en diferentes ámbitos",
+    "viewProject": "Ver proyecto",
+    "projects": {
+      "bespoke": {
+        "name": "Arquitectura BeSpoke",
+        "category": "Landing Page",
+        "description": "Landing page profesional para un estudio de arquitectura, con diseño elegante y layouts responsivos."
+      },
+      "cmaccesorios": {
+        "name": "CMAccesorios",
+        "category": "E-Commerce",
+        "description": "Tienda online completa de accesorios y complementos de moda con catálogo de productos y proceso de compra."
+      },
+      "prodeapp": {
+        "name": "ProdeApp",
+        "category": "App Web y Móvil a Medida",
+        "description": "Plataforma de predicciones deportivas con versiones móvil y web. Desarrollada con Django + DRF + PostgreSQL en el backend y React/React Native + Next.js + Expo en el frontend."
+      }
+    }
+  },
+  "about": {
+    "title": "Nosotros",
+    "subtitle": "Construido con precisión, impulsado por el oficio",
+    "description": "Abordamos cada proyecto con una atención meticulosa al detalle y un compromiso de entregar soluciones que superen las expectativas. Desde el concepto hasta el despliegue, combinamos tecnologías modernas con metodologías probadas para crear productos digitales de alto rendimiento.",
+    "values": {
+      "quality": {
+        "title": "Calidad Primero",
+        "description": "Cada línea de código se escribe con propósito. No tomamos atajos."
+      },
+      "modern": {
+        "title": "Stack Moderno",
+        "description": "Aprovechamos tecnologías de vanguardia para construir soluciones rápidas, seguras y escalables."
+      },
+      "communication": {
+        "title": "Comunicación Clara",
+        "description": "Procesos transparentes y actualizaciones regulares. Siempre sabes dónde está tu proyecto."
+      }
+    }
+  },
+  "contact": {
+    "title": "Trabajemos juntos",
+    "subtitle": "¿Tienes un proyecto en mente? Nos encantaría saber más.",
+    "email": "Escríbenos a",
+    "cta": "Envíanos un email"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "legal": "Aviso Legal",
+    "cookies": "Política de Cookies"
+  },
+  "cookie": {
+    "title": "Valoramos tu privacidad",
+    "description": "Utilizamos cookies para mejorar tu experiencia de navegación y analizar el tráfico del sitio. Al hacer clic en \"Aceptar todo\", consientes el uso de cookies.",
+    "acceptAll": "Aceptar todo",
+    "rejectAll": "Rechazar todo",
+    "manage": "Gestionar preferencias",
+    "necessary": "Necesarias",
+    "necessaryDesc": "Esenciales para el funcionamiento correcto del sitio web.",
+    "analytics": "Analíticas",
+    "analyticsDesc": "Nos ayudan a entender cómo los visitantes interactúan con el sitio web.",
+    "marketing": "Marketing",
+    "marketingDesc": "Se utilizan para mostrar publicidad personalizada.",
+    "save": "Guardar preferencias",
+    "back": "Volver"
+  },
+  "cookiePolicy": {
+    "title": "Política de Cookies",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "Esta Política de Cookies explica cómo Mappek (\"nosotros\", \"nuestro\") utiliza cookies y tecnologías similares cuando visitas nuestro sitio web mappek.com. Explica qué son estas tecnologías, por qué las usamos y tus derechos para controlar su uso.",
+    "sections": {
+      "what": {
+        "title": "1. ¿Qué Son las Cookies?",
+        "content": "Las cookies son pequeños archivos de texto que se almacenan en tu dispositivo (ordenador, tablet o móvil) cuando visitas un sitio web. Se utilizan ampliamente para que los sitios web funcionen de manera más eficiente y para proporcionar información a los propietarios del sitio.\n\nLas cookies pueden ser \"persistentes\" (permanecen en tu dispositivo hasta que caducan o se eliminan) o de \"sesión\" (se eliminan cuando cierras el navegador)."
+      },
+      "types": {
+        "title": "2. Tipos de Cookies que Utilizamos",
+        "content": "Clasificamos las cookies en las siguientes categorías:\n- **Cookies Necesarias**: Esenciales para el funcionamiento del sitio web.\n- **Cookies Analíticas**: Nos ayudan a entender cómo los visitantes usan el sitio web.\n- **Cookies de Marketing**: Se utilizan para mostrar publicidad relevante."
+      },
+      "necessary": {
+        "title": "3. Cookies Necesarias",
+        "content": "Estas cookies son estrictamente necesarias para el funcionamiento del sitio web y no se pueden desactivar. Generalmente se establecen en respuesta a acciones que realizas, como configurar tus preferencias de privacidad, iniciar sesión o rellenar formularios.\n\nPuedes configurar tu navegador para bloquear estas cookies, pero algunas partes del sitio pueden no funcionar correctamente.\n\n- **Preferencias de consentimiento de cookies**: Almacena tus opciones de consentimiento (localStorage)."
+      },
+      "analytics": {
+        "title": "4. Cookies Analíticas",
+        "content": "Estas cookies nos permiten contar visitas y fuentes de tráfico para poder medir y mejorar el rendimiento de nuestro sitio. Nos ayudan a saber qué páginas son las más y menos populares y cómo se mueven los visitantes por el sitio.\n\nToda la información recopilada por estas cookies es agregada y, por lo tanto, anónima. Si no permites estas cookies, no sabremos cuándo has visitado nuestro sitio."
+      },
+      "marketing": {
+        "title": "5. Cookies de Marketing",
+        "content": "Estas cookies pueden ser establecidas a través de nuestro sitio por nuestros socios publicitarios. Pueden ser utilizadas por esas empresas para crear un perfil de tus intereses y mostrarte anuncios relevantes en otros sitios.\n\nNo almacenan directamente información personal, sino que se basan en la identificación única de tu navegador y dispositivo. Si no permites estas cookies, experimentarás publicidad menos personalizada."
+      },
+      "manage": {
+        "title": "6. Cómo Gestionar las Cookies",
+        "content": "Puedes gestionar tus preferencias de cookies en cualquier momento a través de nuestro banner de consentimiento de cookies, que aparece cuando visitas nuestro sitio web por primera vez. También puedes gestionar las cookies a través de la configuración de tu navegador:\n\n- **Chrome**: Configuración > Privacidad y seguridad > Cookies\n- **Firefox**: Configuración > Privacidad y seguridad > Cookies\n- **Safari**: Preferencias > Privacidad > Cookies\n- **Edge**: Configuración > Cookies y permisos del sitio\n\nTen en cuenta que deshabilitar las cookies puede afectar la funcionalidad del sitio web."
+      },
+      "thirdParty": {
+        "title": "7. Cookies de Terceros",
+        "content": "Algunas cookies son colocadas por servicios de terceros que aparecen en nuestras páginas. No controlamos el uso de estas cookies. Los proveedores de terceros tienen sus propias políticas de cookies y privacidad."
+      },
+      "changes": {
+        "title": "8. Cambios en Esta Política",
+        "content": "Podemos actualizar esta Política de Cookies periódicamente para reflejar cambios en las cookies que utilizamos o por otras razones operativas, legales o regulatorias. Por favor, visita esta página regularmente para mantenerte informado sobre nuestro uso de cookies."
+      },
+      "contact": {
+        "title": "9. Contáctanos",
+        "content": "Si tienes alguna pregunta sobre nuestro uso de cookies, contáctanos en mappek@mappek.com."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "En Mappek (\"nosotros\", \"nuestro\"), nos comprometemos a proteger tu privacidad. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos tu información cuando visitas nuestro sitio web mappek.com.",
+    "sections": {
+      "collect": {
+        "title": "1. Información que Recopilamos",
+        "content": "Podemos recopilar los siguientes tipos de información:\n- **Información Personal**: Nombre, dirección de correo electrónico y otros datos de contacto que proporcionas voluntariamente a través de nuestros formularios.\n- **Datos de Uso**: Información sobre cómo interactúas con nuestro sitio web, incluyendo dirección IP, tipo de navegador, páginas visitadas y tiempo de permanencia.\n- **Cookies**: Pequeños archivos de datos almacenados en tu dispositivo. Consulta nuestra Política de Cookies para más detalles."
+      },
+      "use": {
+        "title": "2. Cómo Usamos tu Información",
+        "content": "Usamos la información recopilada para:\n- Responder a tus consultas y proporcionar los servicios solicitados.\n- Mejorar nuestro sitio web y servicios.\n- Analizar el uso y las tendencias del sitio web.\n- Cumplir con obligaciones legales."
+      },
+      "legal": {
+        "title": "3. Base Legal para el Tratamiento (RGPD)",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD), procesamos tus datos personales basándonos en:\n- **Consentimiento**: Cuando has dado un consentimiento claro para procesar tus datos con un propósito específico.\n- **Interés Legítimo**: Cuando el procesamiento es necesario para nuestros intereses comerciales legítimos.\n- **Obligación Legal**: Cuando el procesamiento es necesario para cumplir con la ley."
+      },
+      "rights": {
+        "title": "4. Tus Derechos",
+        "content": "Bajo el RGPD, tienes derecho a:\n- Acceder a tus datos personales.\n- Rectificar datos personales inexactos.\n- Solicitar la eliminación de tus datos personales.\n- Restringir el procesamiento de tus datos personales.\n- Portabilidad de datos.\n- Oponerte al procesamiento.\n\nPara ejercer cualquiera de estos derechos, contáctanos en mappek@mappek.com."
+      },
+      "retention": {
+        "title": "5. Retención de Datos",
+        "content": "Conservamos los datos personales solo durante el tiempo necesario para cumplir con los fines para los que fueron recopilados, o según lo requiera la ley."
+      },
+      "security": {
+        "title": "6. Seguridad de los Datos",
+        "content": "Implementamos medidas técnicas y organizativas apropiadas para proteger tus datos personales contra el acceso no autorizado, alteración, divulgación o destrucción."
+      },
+      "thirdParty": {
+        "title": "7. Servicios de Terceros",
+        "content": "Podemos utilizar servicios de terceros (como proveedores de analítica) que recopilan, monitorizan y analizan información. Estos terceros tienen sus propias políticas de privacidad que abordan cómo utilizan dicha información."
+      },
+      "changes": {
+        "title": "8. Cambios en Esta Política",
+        "content": "Podemos actualizar esta Política de Privacidad periódicamente. Te notificaremos de cualquier cambio publicando la nueva Política de Privacidad en esta página y actualizando la fecha de \"Última actualización\"."
+      },
+      "contact": {
+        "title": "9. Contáctanos",
+        "content": "Si tienes alguna pregunta sobre esta Política de Privacidad, contáctanos en mappek@mappek.com."
+      }
+    }
+  }
+}
